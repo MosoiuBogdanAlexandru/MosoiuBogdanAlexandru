@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MosoiuBogdanAlexandru
 - 👀 I’m interested in Web application development
-- 🌱 I’m currently learning React.js
 - 📫 How to reach me: mosoiu.bogdan94@gmail.com
 
 <!---
